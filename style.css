@@ -1,16 +1,21 @@
-body { 
-	
-	background-color: black;}
+body {
+	text-align: center;
+	background: black;
 
-h1 {
-	color: red;
-	text-align: center
-}	
-
-h3 {	
-	color:yellow;
-	text-align: center
 }
-
-p { color: white;	
+h1, h3 {
+	font-weight: bold;
+	color: #F5DEB3;
+	font-family: "Georgia"
+}
+#slogan {
+	font-style: italic;
+	font-size: 24px
+}
+p{
+	color: #FFF8DC;
+	font-family: "Gill Sans";
+}
+ul {color: #FFF8DC;
+	font-family: "Gill Sans";
 }
